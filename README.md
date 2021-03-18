@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Muhammad Arifin. A graduate of engineering physics with lots of mathematics, physics, and physics simulations. That's all in the past though, right now what I am passionate about is, really, web development especially building a Web App using ReactJs and other technologies. 
+I am Muhammad Arifin. A graduate of engineering physics with lots of mathematics, physics, and physics simulations. That's all in the past though, right now what I am passionate about is, really, web development especially building a Web App using Laravel 8, Laravel Livewire, Vue Js, Bootstrap, Tailwind CSS and other technologies. 
 
 ---
 
@@ -9,7 +9,11 @@ I’m currently working on a firmware (software for hardware) for a local positi
 ---
 
 ### Current Side Projects 🌱 
-After office, I spent my time mostly doing Web Development especially front-end development. For a small static webpage, I used HTML5, CSS3, and Vanilla Javascript. But lately, I've been really hooked by ReactJs and ReactJs Hooks. It's so amazing seeing what can be build with it. That's why I'm planning to go on mastering Javascript and ReactJs for fun and a better opportunity in the future!
+After office, I spent my time mostly doing Web Development especially front-end development. Several projects I have done on my spare time:
+- [Full-Stack E-Commerce Web App](https://github.com/ifindev/Laravel-E-Commerce-POS) **([on progress](https://github.com/ifindev/Laravel-E-Commerce-POS))**. Stack: Laravel 8, Laravel Blade, Laravel Livewire, Laravel Bootstrap UI, Laravel Shopping Cart, MySQL database. 
+- [A minimalist To-Do list](https://github.com/ifindev/todo-list) live on **([netlify](https://ifindev-todo.netlify.app/))**. Stack: React JS, Local Storage, Netlify.
+- [Javascript Number Guesser](https://github.com/ifindev/guess-number) for DOM manipulation practice. Live on **[netlify](https://guessing-game-js.netlify.app)**. Stack: HTML5, CSS3, and Vanilla Javascript. 
+- [Loopstudios](https://github.com/ifindev/loopstudios) landing page live on **[netlify](https://loopstudios-web.netlify.app/)**. 
 
 ---
 
