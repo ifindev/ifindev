@@ -17,6 +17,13 @@ After office, I spent my time mostly doing Web Development especially front-end 
 
 ---
 
+### Past Projects
+Apart from all the projects above, these are some of my past projects I did:
+- Exploration of different utitility functions for an embedded system project written on C. https://github.com/ifindev/sample-c-projects
+- Indoor positioning algorithms and other radio propagation simulations created using Python: https://github.com/ifindev/indoor-positioning-algorithms
+- Antenna pattern simulations for a 5G antenna using Python: https://github.com/ifindev/antenna-pattern-simulations
+- ESP32 real-time signal strength data dashboard created using Arduino, HTML, CSS, Javascript, and Ajax: https://github.com/ifindev/ESP32_Skripsi
+
 ### Bonus 💬
 Thanks for stopping by. Please reach me on [LinkedIn](https://www.linkedin.com/in/arifin2610/) for software engineering projects. 
 <!--
