@@ -9,7 +9,7 @@ I’m currently working on a firmware (software for hardware) for a local positi
 ---
 
 ### Current Side Projects 🌱 
-After office, I spent my time mostly doing Web Development especially front-end development. Several projects I have done on my spare time:
+After office, I spent my time mostly doing Web Development. Several projects I have done on my spare time:
 - [Full-Stack E-Commerce Web App](https://github.com/ifindev/Laravel-E-Commerce-POS) **([on progress](https://github.com/ifindev/Laravel-E-Commerce-POS))**. Stack: Laravel 8, Laravel Blade, Laravel Livewire, Laravel Bootstrap UI, Laravel Shopping Cart, MySQL database. 
 - [A minimalist To-Do list](https://github.com/ifindev/todo-list) live on **([netlify](https://ifindev-todo.netlify.app/))**. Stack: React JS, Local Storage, Netlify.
 - [Javascript Number Guesser](https://github.com/ifindev/guess-number) for DOM manipulation practice. Live on **[netlify](https://guessing-game-js.netlify.app)**. Stack: HTML5, CSS3, and Vanilla Javascript. 
