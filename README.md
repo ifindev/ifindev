@@ -10,6 +10,7 @@ I’m currently working on a firmware (software for hardware) for a local positi
 
 ### Current Side Projects 🌱 
 After office, I spent my time mostly doing Web Development. Several projects I have done on my spare time:
+- [Kulineran](https://github.com/ifindev/kulineran-app): A minimalist and responsive food ordering application built using Vue and Bootstrap with a Fake JSON REST API.
 - [Sensor Streaming System](https://github.com/ifindev/sensor-streaming): An integrated IoT system consisted of three different applications for streaming sensor data.
 - [Sensor Aggregation](https://github.com/ifindev/sensor-aggregation): REST API endpoints for aggregating sensor data by room area and by date-time built using express.js for an the backend of an IoT system. 
 - [Salary conversion endpoint](https://github.com/ifindev/salary-conversion-endpoint). This is a minimalist REST API endpoint created using Express JS for fetching user data and converting salary from IDR to USD using curreny rate fetched from external API. 
