@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arifin
 
-I specialize in building fast, clean, and scalable web apps — now focused on the intersection of **frontend engineering** and **applied AI**.
+I specialize in building fast, clean, and scalable web apps — now focused on the intersection of **frontend engineering** and **AI**.
 
 ### TLDR;
 - 🧑‍💻 Fullstack Dev by Nature 
