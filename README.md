@@ -81,10 +81,3 @@ I specialize in building fast, clean, and scalable web apps — now focused on t
 ![](https://github-readme-stats.vercel.app/api?username=ifindev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=prs,issues,contribs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ifindev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ifindev&icon=3&color=0)](https://visitcount.itsvg.in)
